@@ -1,0 +1,35 @@
+body{
+    background-image: url("../img/schoolbackground.png");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: 40% 9%;
+    position: fixed;
+    margin-top: 10px;
+    top: 2px;
+    left: 0px;
+}
+
+.back{
+    background-color: rgb(107, 199, 107);
+    height: 27px;
+    width: 120px;
+    text-align: center;
+    margin-left: 170px;
+    margin-top: 240%;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  a:link { 
+    text-decoration: none; 
+  } 
+  a:visited { 
+    text-decoration: none; 
+    color: black;
+  } 
+  a:hover { 
+    text-decoration: none; 
+  } 
+  a:active { 
+    text-decoration: none; 
+  }
